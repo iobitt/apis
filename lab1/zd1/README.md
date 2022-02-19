@@ -6,7 +6,7 @@
 2) Внутри метода Main необходимо добавить вывод в консоль сумму всех
 переменных (a,b,c,d,e) с добавлением фразы «Сумма всех значений равна : »
 
-<code>
+<pre><code>
     class Program
     {
         static void Main(string[] args)
@@ -19,5 +19,4 @@
             Console.ReadLine();
         }
     }
-</code>
-
+</code></pre>
